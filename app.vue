@@ -1,7 +1,7 @@
 <template>
   <v-app>
     <v-main>
-      <NuxtWelcome />
+      <VuetifyWelcome />
     </v-main>
   </v-app>
 </template>
