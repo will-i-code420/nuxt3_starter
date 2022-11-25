@@ -1,7 +1,8 @@
 <template>
   <v-app>
+    <TopNavBar />
     <v-main>
-      <VuetifyWelcome />
+      <NuxtPage />
     </v-main>
   </v-app>
 </template>
