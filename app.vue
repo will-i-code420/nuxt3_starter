@@ -4,5 +4,6 @@
     <v-main>
       <NuxtPage />
     </v-main>
+    <BottomFooter />
   </v-app>
 </template>
