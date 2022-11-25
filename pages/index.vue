@@ -1,8 +1,9 @@
 <template>
   <UIDefaultLayout>
     <v-col>
-      <VuetifyWelcome />
+      <HeroBanner />
     </v-col>
+    <VuetifyWelcome />
   </UIDefaultLayout>
 </template>
 
