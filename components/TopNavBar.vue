@@ -16,6 +16,10 @@
             >
               {{ item.title }}
             </v-btn>
+            <v-spacer></v-spacer>
+            <v-btn to="/admin/auth">
+              Login
+            </v-btn>
             <v-app-bar-nav-icon
               @click.stop="drawer = !drawer"
               class="hidden-md-and-up"
